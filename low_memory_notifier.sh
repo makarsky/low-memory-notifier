@@ -4,7 +4,7 @@
 THRESHOLD=900
 
 #Check time interval, sec
-INTERVAL=10
+INTERVAL=3
 
 while :
 do
